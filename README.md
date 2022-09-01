@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 I'm a Java Developer with over 5 years. 
-- ⚡ Tech Stack: Java, Java(SE & FX), Java Ee, Spring MVC, Spring Boot(Data, Rest, Security & Cloud) & Docker.
+- ⚡ Tech Stack: Java, Java(SE & FX), Java Ee, Spring MVC, Spring Boot(Data, Rest, Security & Cloud) & Container orchestration.
 - 📫 How to reach me: contact@jackb01.com.
 
-`Sorry but all my main repository are private since most are related to companies work.`
+`Sorry but majority of my repository are private since most are related to Companies Projects.`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackb01&count_private=true&hide=stars,prs&show_owner=true&show_icons=true)
 
