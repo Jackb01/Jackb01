@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Java Developer with over 5 years. 
+I'm a Software Developer with over 5 years specialized in Java Development. 
 - ⚡ Tech Stack: Java, Java(SE & FX), Java Ee, Spring MVC, Spring Boot(Data, Rest, Security & Cloud) & Container orchestration.
 - 📫 How to reach me: contact@jackb01.com.
 
