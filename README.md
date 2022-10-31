@@ -2,6 +2,7 @@
 
 I'm a Software Developer with over 5+ years specialized in Java Development. 
 - ⚡ Tech Stack: Java (8, 11 & 17), Java(SE & FX), Java Ee, Spring MVC, Spring Boot(Data, Rest, Vault, Security & Cloud) & Container orchestration.
+- ⚡ Database Stack: MySQL, PostgreSQL, Oracle, MongoDB and Redis.
 - 📫 How to reach me: contact@jackb01.com.
 
 `Sorry but majority of my repositories are private since most are related to Companies Projects.`
