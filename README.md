@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer with over 5+ years in the industry specialized in Java Development. 
 - ⚡ Tech Stack: Java (8, 11 & 17), Java(SE & FX), Java Ee, Java Frontend (JSP, JSF, Bootfaces, Primefaces & Thymeleaf), Spring MVC, Spring Boot (Data, Rest, Vault, Security & Cloud) & Container orchestration.
-- ⚡ Database Stack: MySQL, PostgreSQL, Oracle, MongoDB and Redis.
+- ⚡ Database Stack: SQL (MySQL, PostgreSQL and Oracle) & NoSQL (MongoDB and Redis).
 - 📫 How to reach me: contact@jackb01.com.
 
 `Sorry but majority of my repositories are private since most are related to Companies Projects.`
