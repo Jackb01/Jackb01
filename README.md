@@ -25,9 +25,16 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 ![MongoDB](https://img.shields.io/badge/mongodb-%23000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-%23000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-%23000.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Apache Maven](https://img.shields.io/badge/apache_maven-%23000.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache_tomcat-%23000.svg?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/apche_jmeter-%23000.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Junit](https://img.shields.io/badge/junit5-%23000.svg?style=for-the-badge&logo=junit5&logoColor=white)
+
 
 
 ![AWS](https://img.shields.io/badge/aws-%23000.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
