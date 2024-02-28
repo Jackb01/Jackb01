@@ -16,8 +16,15 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 ![CSS3](https://img.shields.io/badge/css3-%23000.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=white)
+![MUI](https://img.shields.io/badge/material_ui-%23000.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/thymeleaf-%23000.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23000.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 
