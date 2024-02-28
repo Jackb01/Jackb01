@@ -36,6 +36,10 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 
 ![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-%23000.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23000.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+
 ![AWS](https://img.shields.io/badge/aws-%23000.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/google_cloud-%23000.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle_cloud-%23000.svg?style=for-the-badge&logo=oracle&logoColor=white)
