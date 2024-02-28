@@ -8,8 +8,6 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 `Sorry but majority of my repositories are private since most are related to Companies Projects.`
 
 ![Java](https://img.shields.io/badge/Java-%23000.svg?style=for-the-badge&logo=java&logoColor=white)
-
-
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23000.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
