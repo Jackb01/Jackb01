@@ -3,7 +3,6 @@
 I'm a Senior Software Engineer with over 6+ years in the industry specialized in Backend Development. 
 - ⚡ Tech Stack: Java (8, 11 & 17), Java(SE & FX), Java Ee, Java Frontend (JSP, JSF, Bootfaces, Primefaces & Thymeleaf), Spring MVC, Spring Boot (Data, Rest, Vault, Security & Cloud) & Container orchestration.
 - ⚡ Database Stack: SQL (MySQL, PostgreSQL and Oracle) & NoSQL (MongoDB and Redis).
-- 📫 How to reach me: contact@jackb01.com.
 
 `Sorry but majority of my repositories are private since most are related to Companies Projects.`
 
@@ -39,13 +38,9 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 ![Prometheus](https://img.shields.io/badge/prometheus-%23000.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23000.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-
 ![AWS](https://img.shields.io/badge/aws-%23000.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/google_cloud-%23000.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle_cloud-%23000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-
-
-
 
 
 
@@ -78,4 +73,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 📫 How to reach me: contact@jackb01.com.
+
 -->
