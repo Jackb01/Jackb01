@@ -12,6 +12,7 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 </a> 
 
 <br />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jackb01&theme=highcontrast&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
