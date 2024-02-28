@@ -12,18 +12,25 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 ![Spring](https://img.shields.io/badge/Spring-%23000.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%23000.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/spring_security-%23000.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-%23000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23000.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=white)
 ![MUI](https://img.shields.io/badge/material_ui-%23000.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/thymeleaf-%23000.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23000.svg?style=for-the-badge&logo=amazon_aws&logoColor=white)
+![GCP](https://img.shields.io/badge/google_cloud-%23000.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle_cloud-%23000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+
 
 
 
