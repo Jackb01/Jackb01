@@ -9,7 +9,7 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackb01&count_private=true&hide=stars,prs&show_owner=true&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jackb01)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jackb01&theme=dark)](https://git.io/streak-stats)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
