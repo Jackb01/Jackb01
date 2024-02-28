@@ -26,6 +26,10 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 ![Redis](https://img.shields.io/badge/redis-%23000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23000.svg?style=for-the-badge&logo=github&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-%23000.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+
 ![AWS](https://img.shields.io/badge/aws-%23000.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/google_cloud-%23000.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle_cloud-%23000.svg?style=for-the-badge&logo=oracle&logoColor=white)
