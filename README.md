@@ -10,11 +10,6 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackb01&count_private=true&hide=stars,prs&show_owner=true&show_icons=true)
 
 
-
-<a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="left" width=520 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jackb01&count_private=true&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="Sharginjay's github stats" />
-</a> 
-
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img a width=450 align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jackb01&count_private=true&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
