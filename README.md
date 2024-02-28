@@ -7,13 +7,12 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 
 `Sorry but majority of my repositories are private since most are related to Companies Projects.`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackb01&count_private=true&hide=stars,prs&show_owner=true&show_icons=true)
-
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="left" width=500 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jackb01&count_private=true&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="Jack's github stats" />
 </a> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jackb01&theme=highcontrast&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br />
+[![Jack Streak](https://streak-stats.demolab.com/?user=Jackb01&theme=highcontrast&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
