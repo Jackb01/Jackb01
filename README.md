@@ -6,6 +6,8 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 
 `Sorry but majority of my repositories are private since most are related to Companies Projects.`
 
+🔭 I’m currently working on IZEmployee Performance Review
+
 
 ### Tech Stack ⚡
 
