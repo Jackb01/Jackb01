@@ -9,7 +9,7 @@ I'm a Senior Software Engineer with over 6+ years in the industry specialized in
 
 ###
 
-- 🔭 I’m currently working on Employee Performance Management Solution 🔭.
+- 🔭 I’m currently working on Employee Performance Management Solution.
 - ⚡ Public Projects ==> [Freelance Projects](https://github.com/freelancing-open) 
 
 
