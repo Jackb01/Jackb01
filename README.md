@@ -4,7 +4,7 @@ I'm a Senior Software Engineer with over 6+ years specialized in Backend Develop
 - ⚡ Tech Stack: Java (8, 11 & 17), Java(Swing & FX), Java Ee, Jakarta, Hibernate, Java Frontend (JSP, JSF, Bootfaces, Primefaces & Thymeleaf), Spring MVC, Spring Boot (Data, Rest, Vault, Security & Cloud), & Container orchestration.
 - ⚡ Database Stack: SQL (MySQL & PostgreSQL) & NoSQL (MongoDB & Redis).
 
-`Majority of my repositories are private as they are related to company projects. I'd be happy to discuss my experiences instead.`
+`Majority of my repositories are private as they are related to company projects. I'd be happy to discuss my experiences and take technical interviews.`
 
 
 ###
