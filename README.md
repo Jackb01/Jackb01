@@ -54,7 +54,7 @@ I'm a Senior Software Engineer with over 6+ years specialized in Backend Develop
 ![Oracle](https://img.shields.io/badge/oracle_cloud-%23000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-<!--
+
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="left" width=500 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jackb01&count_private=true&show_icons=true&include_all_commits=true&theme=react&border=61dafb&hide_border=true" alt="Jack's github stats" />
 </a> 
@@ -69,7 +69,7 @@ I'm a Senior Software Engineer with over 6+ years specialized in Backend Develop
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackb01&langs_count=3&hide_title=true&hide_border=true" />
 </a>
--->
+
 
 <!--
 **Jackb01/jackb01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
