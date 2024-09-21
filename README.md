@@ -60,9 +60,9 @@ I'm a Senior Software Engineer with over 6+ years specialized in Backend Develop
 </a> 
 
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jackb01&theme=highcontrast&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackb01&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&hide_title=true&hide=stars,prs" />
 </a>
