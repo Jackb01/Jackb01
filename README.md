@@ -4,7 +4,7 @@ I'm a Senior Software Engineer with over 6+ years specialized in Backend Develop
 - ⚡ Backend Tech Stack: Java (8, 11 & 17), Java(Swing & FX), Kotlin, Java Ee, Jakarta, Hibernate, Java Frontend (JSP, JSF, Bootfaces, Primefaces & Thymeleaf), Spring MVC, Spring Boot (Data, Rest, Vault, Security & Cloud), & Container orchestration.
 - ⚡ Frontend Tech Stack: HTML5, CSS3, SASS, Javascript, ReactJs, Typescript, Material UI.
 - ⚡ Database Stack: SQL (MySQL, PostgreSQL) & NoSQL (MongoDB & Redis).
-- ⚡ AWS Stack: EC2, S3, RDS, Aurora, DynamoDB, CodeBuild, CodeDeploy, CodePipeline, ECR, ECS, EKS
+- ⚡ AWS Stack: IAM, EC2, S3, RDS, Aurora, DynamoDB, CodeBuild, CodeDeploy, CodePipeline, ECR, ECS, EKS
 
 `Majority of my repositories are private as they are related to company projects. I'd be happy to discuss my experiences and take interviews if needed.`
 
